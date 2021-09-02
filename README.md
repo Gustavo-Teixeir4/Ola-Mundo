@@ -1,2 +1,4 @@
-# Ola-Mundo
- primeiro repositório versionado do curso de git e github
+# Olá, Mundo!
+ primeiro repositório do curso de git e github
+
+ repositório criado no dia 02/09/2021
